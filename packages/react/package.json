@@ -1,6 +1,6 @@
 {
   "name": "@ponday/eslint-config-react",
-  "version": "0.1.0-alpha.0",
+  "version": "0.1.0-alpha.1",
   "description": "@ponday/eslint-config for React",
   "author": "ponday-dev <ponday.dev+github@gmail.com>",
   "homepage": "https://github.com/ponday-dev/eslint-config-ponday#readme",
