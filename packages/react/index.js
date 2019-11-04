@@ -6,6 +6,11 @@ module.exports = {
             jsx: true,
         }
     },
+    settings: {
+        react: {
+            version: 'detect',
+        }
+    },
     plugins: [
         'react',
         'react-hooks',
