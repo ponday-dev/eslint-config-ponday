@@ -1,0 +1,21 @@
+{
+  "name": "@ponday/eslint-config-base",
+  "version": "0.1.0",
+  "description": "> TODO: description",
+  "author": "ponday-dev <ponday.dev+github@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "eslint": "^6.6.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
