@@ -19,8 +19,12 @@
   "bugs": {
     "url": "https://github.com/ponday-dev/eslint-config-ponday/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.6.0",
     "@typescript-eslint/parser": "^2.6.0"
-  }
+  },
+  "gitHead": "d732314dcc2cc918f7bc9d898a9503103499b18e"
 }
