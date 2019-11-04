@@ -1,6 +1,6 @@
 {
   "name": "@ponday/eslint-config-base",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "description": "@ponday/eslint-config base configurations",
   "author": "ponday-dev <ponday.dev+github@gmail.com>",
   "homepage": "",
