@@ -2,7 +2,8 @@
 
 module.exports = {
     extends: [
-        "eslint:recommended"
+        "eslint:recommended",
+        "prettier"
     ],
     parserOptions: {
         ecmaVersion: 2020,

@@ -12,10 +12,13 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "dependencies": {
-    "eslint": "^6.6.0"
-  },
   "publishConfig": {
     "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": "^6.6.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-prettier": "^3.1.1"
   }
 }
