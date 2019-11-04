@@ -1,0 +1,26 @@
+{
+  "name": "@ponday/eslint-config-typescript",
+  "version": "0.1.0-alpha.0",
+  "description": "@ponday/eslint-config for TypeScript",
+  "author": "ponday-dev <ponday.dev+github@gmail.com>",
+  "homepage": "https://github.com/ponday-dev/eslint-config-ponday#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponday-dev/eslint-config-ponday.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ponday-dev/eslint-config-ponday/issues"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.6.0",
+    "@typescript-eslint/parser": "^2.6.0"
+  }
+}
