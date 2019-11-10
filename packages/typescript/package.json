@@ -1,6 +1,6 @@
 {
   "name": "@ponday/eslint-config-typescript",
-  "version": "0.1.0-alpha.5",
+  "version": "0.1.0-alpha.8",
   "description": "@ponday/eslint-config for TypeScript",
   "author": "ponday-dev <ponday.dev+github@gmail.com>",
   "homepage": "https://github.com/ponday-dev/eslint-config-ponday#readme",
