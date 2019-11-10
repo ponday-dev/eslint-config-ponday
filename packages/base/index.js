@@ -16,5 +16,8 @@ module.exports = {
     },
     plugins: [
         'import'
-    ]
+    ],
+    rules: {
+        'no-restricted-globals': 'off',
+    }
 };

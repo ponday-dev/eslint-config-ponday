@@ -13,6 +13,16 @@ module.exports = {
         'plugin:@typescript-eslint/recommended',
         'prettier/@typescript-eslint',
     ],
+    rules: {
+        '@typescript-eslint/explicit-function-return-type': [
+            'error',
+            {
+                'allowExpressions': true,
+                'allowTypedFunctionExpressions': true
+            }
+        ],
+        '@typescript-eslint/no-explicit-any': 'warn',
+    },
     overrides: [
         {
             files: ['*.tsx'],
