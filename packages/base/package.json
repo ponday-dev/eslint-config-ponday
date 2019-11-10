@@ -20,7 +20,8 @@
   },
   "devDependencies": {
     "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-prettier": "^3.1.1"
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-config-prettier": "^6.5.0"
   },
   "gitHead": "d732314dcc2cc918f7bc9d898a9503103499b18e"
 }

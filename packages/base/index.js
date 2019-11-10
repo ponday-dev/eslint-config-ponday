@@ -2,12 +2,12 @@
 
 module.exports = {
     extends: [
-        "eslint:recommended",
-        "prettier"
+        'eslint:recommended',
+        'prettier'
     ],
     parserOptions: {
         ecmaVersion: 2020,
-        sourceType: "module",
+        sourceType: 'module',
     },
     env: {
         browser: true,
@@ -15,9 +15,11 @@ module.exports = {
         node: true,
     },
     plugins: [
-        'import'
+        'import',
+        'prettier'
     ],
     rules: {
+        'prettier/prettier': 'error',
         'no-restricted-globals': 'off',
     }
 };
