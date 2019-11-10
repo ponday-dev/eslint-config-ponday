@@ -19,7 +19,7 @@
     "eslint": "^6.6.0",
     "prettier": "^1.19.1"
   },
-  "devDependencies": {
+  "dependencies": {
     "eslint-config-prettier": "^6.5.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-prettier": "^3.1.1"
